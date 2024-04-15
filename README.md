@@ -11,20 +11,14 @@
   | No. | 🗞 Warm Up | 💬 Main Topic |
   |:----|:-----------|:-------------|
   ||||
-  | __1기-1주차__<br>(03/28) | [\<!DOCTYPE html\>](https://github.com/woowacourse-fe-study/havruta-frontend/issues/2)<br>　 | [이벤트](https://github.com/woowacourse-fe-study/havruta-frontend/issues/1)<br>`이벤트위임`, `버블링`, `캡쳐링`, `커스텀이벤트` |
-  | __1기-2주차__<br>(04/04) | [attribute vs property](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/4)<br>　 | [CSS 선택자](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/6)<br>`속성선택자`, `중첩요소 선택`, `가상 클래스`, `선택자 상수화 및 관리` |
-  | __1기-3주차__<br>(04/11) | [쿠키 vs 세션스토리지 vs <br>로컬스토리지](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/7)<br>　 | [비동기 프로그래밍](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/8)<br>`콜백`, `Promise`, `async await`, `이벤트루프와 태스크큐`  |
+  | __1주차__<br>(03/28) | [\<!DOCTYPE html\>](https://github.com/woowacourse-fe-study/havruta-frontend/issues/2)<br>　 | [이벤트](https://github.com/woowacourse-fe-study/havruta-frontend/issues/1)<br>`이벤트위임`, `버블링`, `캡쳐링`, `커스텀이벤트` |
+  | __2주차__<br>(04/04) | [attribute vs property](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/4)<br>　 | [CSS 선택자](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/6)<br>`속성선택자`, `중첩요소 선택`, `가상 클래스`, `선택자 상수화 및 관리` |
+  | __3주차__<br>(04/11) | [쿠키 vs 세션스토리지 vs <br>로컬스토리지](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/7)<br>　 | [비동기 프로그래밍](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/8)<br>`콜백`, `Promise`, `async await`, `이벤트루프와 태스크큐`  |
   ||||
-  | __2기-1주차__<br>(04/18) | [값, 식, 문](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/10)<br>　 | [함수](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/11)<br>`화살표함수`, `익명함수`, `즉시실행함수`, `일급객체`  |
-  | __2기-2주차__<br>(04/25) | [컴파일타임 vs 런타임](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/12)<br>　 | [변수와 데이터타입](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/14)<br>`const/let/var`, `원시/참조타입`, `불변성`, `동적타이핑`  |
+  | __4주차__<br>(04/18) | [값, 식, 문](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/10)<br>　 | [함수](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/11)<br>`화살표함수`, `익명함수`, `즉시실행함수`, `일급객체`  |
+  | __5주차__<br>(04/25) | [컴파일타임 vs 런타임](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/12)<br>　 | [변수와 데이터타입](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/14)<br>`const/let/var`, `원시/참조타입`, `불변성`, `동적타이핑`  |
   | __2기-3주차__<br>(05/02) | [CSS display](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/16)<br>　 | [this](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/17)<br>`함수 호출 방식에 따른 this 바인딩`, `암시적/명시적 바인딩` |
   | __2기-4주차__<br>(05/09) | [\<link\>와 \<script\>의 위치](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/18)<br>　 | [스코프](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/20)<br>`전역/지역스코프`, `렉시컬 스코프`, `스코프체인`, `클로저`  |
-  ||||
-  | __3기-1주차__<br>(05/23) | [CORS](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/21)<br>　 | [에러 핸들링](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/23)<br>`Error객체`, `try-catch-finally`, `thorw`, `비동기 에러핸들링`  |
-  | __3기-2주차__<br>(05/30) | [spread vs rest 문법](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/21)<br>　 | [브라우저 렌더링](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/25)<br>`DOM`, `CSSOM`, `렌더 트리`, `리플로우`, `리페인트`, `렌더링 최적화` |
-  | __3기-3주차__<br>(06/06) | [변수 네이밍](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/26)<br>　 | [프로토타입](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/28)<br>`프로토타입 패턴`, `프로토타입 상속과 체이닝`, `prototype vs __proto__`  |
-  | __3기-4주차__<br>(06/13) | [script의 async vs defer](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/30)<br>　 | [테스트](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/29)<br>`테스트 비용`, `관심사의 분리`, `TDD, BDD`, `단위/통합/E2E테스트`  |
-
 <br>
 
 ## 하브루타(Havruta)?
@@ -48,7 +42,7 @@
   - 메인토픽: deeep하게 학습
 
 ### 🕕 토요일 D-1
-- 18:00까지 질문 [Discussion](https://github.com/woowacourse-fe-study/havruta-frontend/discussions)에 코멘트로 올리기
+- 18:00까지 질문 [Discussion](https://github.com/jeongsuri/Java-GroupStudy/discussions)에 코멘트로 올리기
   - 하위키워드 예시 참고해서 페어에게 할 질문 작성
   - 하위키워드 예시에 없는 내용도 완전 환영!
   - 질문 개수 2~4개 권장
@@ -60,7 +54,7 @@
   - __(권장 40분)__ 메인토픽 토론 시작
   - __(권장 10분)__ 정리 및 회고
   - 단, 페어끼리 합의한 경우 운영진에게 알리고 다른 시간에 진행가능!
-- 20:00까지 페어와 토론한 내용 올렸던 [Discussions](https://github.com/woowacourse-fe-study/havruta-frontend/discussions) 질문 `edit`해서 추가로 붙여넣기
+- 20:00까지 페어와 토론한 내용 올렸던 [Discussions](https://github.com/jeongsuri/Java-GroupStudy/discussions) 질문 `edit`해서 추가로 붙여넣기
   - 질문 작성자가 페어의 의견과 본인의 의견 종합해서 정리
   - 정리는 형식에 얽매이지 않고 페어와 어떤 얘기를 나눴는지 짤막하게 적어주세용 ❤️
   - 준줌방 소회의실 택 1해서 진행해주세요 💛
