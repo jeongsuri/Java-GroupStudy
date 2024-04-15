@@ -8,14 +8,14 @@
 - __참여__ (총 7인)
   
 - __주차별 주제 모아보기__
-  | No. | 🗞 Warm Up | 💬 Main Topic |
-  |:----|:-----------|:-------------|
+  | No. | 💬 Main Topic | 공지사항 | 토론, 질의 | 내용정리 |
+  |:----|:-----------|:-------------|:-------------|:-------------|
   ||||
-  | __1주차__<br>(03/28) |)<br>　 | 객체지향 프로그래밍 |
-  | __2주차__<br>(04/04) | <br>　 | |
+  | __1주차__<br>(03/28) | 객체지향 프로그래밍 | [공지사항](https://github.com/jeongsuri/Java-StudyGroup/discussions/6) | [토론,질의](https://github.com/jeongsuri/Java-StudyGroup/discussions/9) | [내용정리](https://github.com/jeongsuri/Java-StudyGroup/discussions/11) |
+  | __2주차__<br>(04/04) | <br>　 | | | | 
   ||||
-  | __4주차__<br>(04/18) | <br>　 | |
-  | __5주차__<br>(04/25) |)<br>　 | |
+  | __4주차__<br>(04/18) | <br>　 | | | |
+  | __5주차__<br>(04/25) |<br>　 | | | |
 
 <br>
 
@@ -40,20 +40,21 @@
   - 2순위. 스터디페어를 안해본 사람끼리
 
 ### 🕕 월~목
+- 매일 강의를 통해 복습을 진행
+- 질문사항 및 좋은정보 정리
+
+### 🕑 목요일 D-Day
+- 00:00 ~ 00:00 스터디 진행하기(미정)
+  - __(권장 10분)__ 워밍업 토론
+  - __(권장 40분)__ 메인토픽 토론 시작
+  - __(권장 10분)__ 정리 및 회고
+- 20:00까지 [Discussions](https://github.com/jeongsuri/Java-GroupStudy/discussions) 내용정리를 `edit`해서 추가로 붙여넣기
 - 18:00까지 질문 [Discussion](https://github.com/jeongsuri/Java-GroupStudy/discussions)에 코멘트로 올리기
   - 질문 개수 2~4개 권장
   - 페어가 올린 질문 보고 나의 의견 생각해보고 토론 준비하기
 - 18:00까지 학습내용정리 [Discussion](https://github.com/jeongsuri/Java-GroupStudy/discussions)에 올리기
-
-### 🕑 목요일 D-Day
-- 14:00 ~ 15:00 스터디 진행하기
-  - __(권장 10분)__ 워밍업 토론
-  - __(권장 40분)__ 메인토픽 토론 시작
-  - __(권장 10분)__ 정리 및 회고
-- 20:00까지 페어와 토론한 내용 올렸던 [Discussions](https://github.com/jeongsuri/Java-GroupStudy/discussions) 질문 `edit`해서 추가로 붙여넣기
   - 질문 작성자가 페어의 의견과 본인의 의견 종합해서 정리
-  - 정리는 형식에 얽매이지 않고 페어와 어떤 얘기를 나눴는지 짤막하게 적어주세용 ❤️
-  - 준줌방 소회의실 택 1해서 진행해주세요 💛		
+  - 정리는 형식에 얽매이지 않고 페어와 어떤 얘기를 나눴는지 짤막하게 적어주세용 ❤️	
 
 ### ✅ 잠깐! 이것 만은 꼭…
 
