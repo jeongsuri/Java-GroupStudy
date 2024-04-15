@@ -11,14 +11,12 @@
   | No. | 🗞 Warm Up | 💬 Main Topic |
   |:----|:-----------|:-------------|
   ||||
-  | __1주차__<br>(03/28) | [\<!DOCTYPE html\>](https://github.com/woowacourse-fe-study/havruta-frontend/issues/2)<br>　 | [이벤트](https://github.com/woowacourse-fe-study/havruta-frontend/issues/1)<br>`이벤트위임`, `버블링`, `캡쳐링`, `커스텀이벤트` |
-  | __2주차__<br>(04/04) | [attribute vs property](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/4)<br>　 | [CSS 선택자](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/6)<br>`속성선택자`, `중첩요소 선택`, `가상 클래스`, `선택자 상수화 및 관리` |
-  | __3주차__<br>(04/11) | [쿠키 vs 세션스토리지 vs <br>로컬스토리지](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/7)<br>　 | [비동기 프로그래밍](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/8)<br>`콜백`, `Promise`, `async await`, `이벤트루프와 태스크큐`  |
+  | __1주차__<br>(03/28) |)<br>　 | 자바 |
+  | __2주차__<br>(04/04) | <br>　 | |
   ||||
-  | __4주차__<br>(04/18) | [값, 식, 문](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/10)<br>　 | [함수](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/11)<br>`화살표함수`, `익명함수`, `즉시실행함수`, `일급객체`  |
-  | __5주차__<br>(04/25) | [컴파일타임 vs 런타임](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/12)<br>　 | [변수와 데이터타입](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/14)<br>`const/let/var`, `원시/참조타입`, `불변성`, `동적타이핑`  |
-  | __2기-3주차__<br>(05/02) | [CSS display](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/16)<br>　 | [this](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/17)<br>`함수 호출 방식에 따른 this 바인딩`, `암시적/명시적 바인딩` |
-  | __2기-4주차__<br>(05/09) | [\<link\>와 \<script\>의 위치](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/18)<br>　 | [스코프](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/20)<br>`전역/지역스코프`, `렉시컬 스코프`, `스코프체인`, `클로저`  |
+  | __4주차__<br>(04/18) | <br>　 | |
+  | __5주차__<br>(04/25) |)<br>　 | |
+
 <br>
 
 ## 하브루타(Havruta)?
