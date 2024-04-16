@@ -6,6 +6,8 @@
 ## 스터디로그
 - __기간__: 2024. 04. 00. (월) ~ 2024. 04. 00. (화)
 - __참여__ (총 7인)
+  [@ChaeYoonch](https://github.com/ChaeYoonch), [@sunkyu0384](https://github.com/sunkyu0384), [@yeonhwa011](https://github.com/yeonhwa011),
+  [@parksaehyun](https://github.com/parksaehyun), [@KIMJEONGHYEON1016](https://github.com/KIMJEONGHYEON1016)
   
 - __주차별 주제 모아보기__
   | No. | 💬 Main Topic | 공지사항 | 토론, 질의 | 내용정리 |
