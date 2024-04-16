@@ -12,10 +12,10 @@
   |:----|:-----------|:-------------|:-------------|:-------------|
   ||||
   | __1주차__<br>(03/28) | 객체지향 프로그래밍 | [공지사항](https://github.com/jeongsuri/Java-StudyGroup/discussions/6) | [토론,질의](https://github.com/jeongsuri/Java-StudyGroup/discussions/9) | [내용정리](https://github.com/jeongsuri/Java-StudyGroup/discussions/11) |
-  | __2주차__<br>(04/04) | <br>　 | [공지사항](https://github.com/jeongsuri/Java-StudyGroup/discussions/18) | [토론,질의](https://github.com/jeongsuri/Java-StudyGroup/discussions/10)  | [내용정리](https://github.com/jeongsuri/Java-StudyGroup/discussions/15) | 
+  | __2주차__<br>(04/04) | - | [공지사항](https://github.com/jeongsuri/Java-StudyGroup/discussions/18) | [토론,질의](https://github.com/jeongsuri/Java-StudyGroup/discussions/10)  | [내용정리](https://github.com/jeongsuri/Java-StudyGroup/discussions/15) | 
   ||||
-  | __4주차__<br>(04/18) | <br>　 | [공지사항](https://github.com/jeongsuri/Java-StudyGroup/discussions/19) | [토론,질의](https://github.com/jeongsuri/Java-StudyGroup/discussions/13) | [내용정리](https://github.com/jeongsuri/Java-StudyGroup/discussions/16) |
-  | __5주차__<br>(04/25) |<br>　 | [공지사항](https://github.com/jeongsuri/Java-StudyGroup/discussions/20) | [토론,질의](https://github.com/jeongsuri/Java-StudyGroup/discussions/14) | [내용정리](https://github.com/jeongsuri/Java-StudyGroup/discussions/17) |
+  | __4주차__<br>(04/18) | - | [공지사항](https://github.com/jeongsuri/Java-StudyGroup/discussions/19) | [토론,질의](https://github.com/jeongsuri/Java-StudyGroup/discussions/13) | [내용정리](https://github.com/jeongsuri/Java-StudyGroup/discussions/16) |
+  | __5주차__<br>(04/25) | - | [공지사항](https://github.com/jeongsuri/Java-StudyGroup/discussions/20) | [토론,질의](https://github.com/jeongsuri/Java-StudyGroup/discussions/14) | [내용정리](https://github.com/jeongsuri/Java-StudyGroup/discussions/17) |
 
 <br>
 
