@@ -48,8 +48,8 @@
   - __(권장 10분)__ 워밍업 토론
   - __(권장 40분)__ 메인토픽 토론 시작
   - __(권장 10분)__ 정리 및 회고
-- 20:00까지 내용정리를 [내용정리 게시판](https://github.com/jeongsuri/Java-StudyGroup/discussions/categories/%EB%82%B4%EC%9A%A9%EC%A0%95%EB%A6%AC)에 `edit`해서 추가로 붙여넣기
-- 20:00까지 토론,질문 [토론 및 질의 게시판](https://github.com/jeongsuri/Java-StudyGroup/discussions/categories/%EC%8A%A4%ED%84%B0%EB%94%94-%ED%86%A0%EB%A1%A0-%EC%A7%88%EB%AC%B8)에 코멘트로 올리기
+- 00:00까지 내용정리를 [내용정리 게시판](https://github.com/jeongsuri/Java-StudyGroup/discussions/categories/%EB%82%B4%EC%9A%A9%EC%A0%95%EB%A6%AC)에 `edit`해서 추가로 붙여넣기
+- 00:00까지 토론,질문 [토론 및 질의 게시판](https://github.com/jeongsuri/Java-StudyGroup/discussions/categories/%EC%8A%A4%ED%84%B0%EB%94%94-%ED%86%A0%EB%A1%A0-%EC%A7%88%EB%AC%B8)에 코멘트로 올리기
   - 질문 개수 2~4개 권장
   - 페어가 올린 질문 보고 나의 의견 생각해보고 토론 준비하기
   - 질문 작성자가 페어의 의견과 본인의 의견 종합해서 정리
