@@ -10,14 +10,14 @@
 [@parksaehyun](https://github.com/parksaehyun), [@KIMJEONGHYEON1016](https://github.com/KIMJEONGHYEON1016), [@jeyoungyu](https://github.com/jeyoungyu)
   
 - __주차별 주제 모아보기__
-  | No. | 💬 Main Topic | 공지사항 | 토론, 질의 | 내용정리 |
+  | No. | 💬 Main Topic | 공지사항 | 코딩테스트 | 내용정리 |
   |:----|:-----------|:-------------|:-------------|:-------------|
   ||||
-  | __1주차__<br>(04/13) | 객체지향 프로그래밍 | [공지사항](https://github.com/jeongsuri/Java-StudyGroup/discussions/6) | [토론,질의](https://github.com/jeongsuri/Java-StudyGroup/discussions/9) | [내용정리](https://github.com/jeongsuri/Java-StudyGroup/discussions/11) |
-  | __2주차__<br>(04/20) | 객체지향 프로그래밍, 예외처리, java.lang패키지, 유용한클래스 | [공지사항](https://github.com/jeongsuri/Java-StudyGroup/discussions/18) | [토론,질의](https://github.com/jeongsuri/Java-StudyGroup/discussions/10)  | [내용정리](https://github.com/jeongsuri/Java-StudyGroup/discussions/15) | 
+  | __1주차__<br>(04/13) | 객체지향 프로그래밍 | [공지사항](https://github.com/jeongsuri/Java-StudyGroup/discussions/6) | [코딩테스트](https://github.com/jeongsuri/Java-StudyGroup/discussions/9) | [내용정리](https://github.com/jeongsuri/Java-StudyGroup/discussions/11) |
+  | __2주차__<br>(04/20) | 객체지향 프로그래밍, 예외처리, java.lang패키지, 유용한클래스 | [공지사항](https://github.com/jeongsuri/Java-StudyGroup/discussions/18) | [코딩테스트](https://github.com/jeongsuri/Java-StudyGroup/discussions/10)  | [내용정리](https://github.com/jeongsuri/Java-StudyGroup/discussions/15) | 
   ||||
-  | __4주차__<br>(04/27) | - | [공지사항](https://github.com/jeongsuri/Java-StudyGroup/discussions/19) | [토론,질의](https://github.com/jeongsuri/Java-StudyGroup/discussions/13) | [내용정리](https://github.com/jeongsuri/Java-StudyGroup/discussions/16) |
-  | __5주차__<br>(05/04) | - | [공지사항](https://github.com/jeongsuri/Java-StudyGroup/discussions/20) | [토론,질의](https://github.com/jeongsuri/Java-StudyGroup/discussions/14) | [내용정리](https://github.com/jeongsuri/Java-StudyGroup/discussions/17) |
+  | __4주차__<br>(04/27) | - | [공지사항](https://github.com/jeongsuri/Java-StudyGroup/discussions/19) | [코딩테스트](https://github.com/jeongsuri/Java-StudyGroup/discussions/13) | [내용정리](https://github.com/jeongsuri/Java-StudyGroup/discussions/16) |
+  | __5주차__<br>(05/04) | - | [공지사항](https://github.com/jeongsuri/Java-StudyGroup/discussions/20) | [코딩테스트](https://github.com/jeongsuri/Java-StudyGroup/discussions/14) | [내용정리](https://github.com/jeongsuri/Java-StudyGroup/discussions/17) |
 
 <br>
 
