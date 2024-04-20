@@ -37,25 +37,21 @@
 - 주제공지 확인 후 개별 학습 진행
   - 주어진 영상시청 + 더궁금하다면 가볍게 찾아보기
   - 영상시청 후 내용정리
-- 페어 배정공지(미정)
-  - 1순위. 미션 페어를 안해본 사람끼리
-  - 2순위. 스터디페어를 안해본 사람끼리
 
 ### 🕕 월~목
 - 매일 강의를 통해 복습을 진행
 - 질문사항 및 좋은정보 정리
 
 ### 🕑 목요일 D-Day
-- 00:00 ~ 00:00 스터디 진행하기(미정)
+- 18:00 ~ 19:00 스터디 진행하기(미정)
   - __(권장 10분)__ 워밍업 토론
   - __(권장 40분)__ 메인토픽 토론 시작
   - __(권장 10분)__ 정리 및 회고
-- 00:00까지 내용정리를 [내용정리 게시판](https://github.com/jeongsuri/Java-StudyGroup/discussions/categories/%EB%82%B4%EC%9A%A9%EC%A0%95%EB%A6%AC)에 `edit`해서 추가로 붙여넣기
-- 00:00까지 토론,질문 [토론 및 질의 게시판](https://github.com/jeongsuri/Java-StudyGroup/discussions/categories/%EC%8A%A4%ED%84%B0%EB%94%94-%ED%86%A0%EB%A1%A0-%EC%A7%88%EB%AC%B8)에 코멘트로 올리기
+- 18:00까지 내용정리를 [내용정리 게시판](https://github.com/jeongsuri/Java-StudyGroup/discussions/categories/%EB%82%B4%EC%9A%A9%EC%A0%95%EB%A6%AC)에 `edit`해서 추가로 붙여넣기
+- 18:00까지 코테문제를 [코딩테스트 게시판](https://github.com/jeongsuri/Java-StudyGroup/discussions/categories/%EC%8A%A4%ED%84%B0%EB%94%94-%ED%86%A0%EB%A1%A0-%EC%A7%88%EB%AC%B8)에 코멘트로 올리기
   - 질문 개수 2~4개 권장
-  - 페어가 올린 질문 보고 나의 의견 생각해보고 토론 준비하기
-  - 질문 작성자가 페어의 의견과 본인의 의견 종합해서 정리
-  - 정리는 형식에 얽매이지 않고 페어와 어떤 얘기를 나눴는지 짤막하게 적어주세용 ❤️	
+  - 나의 의견 생각해보고 토론 준비하기
+  - 정리는 형식에 얽매이지 않고 어떤 얘기를 나눴는지 짤막하게 적어주세용 ❤️	
 
 ### ✅ 잠깐! 이것 만은 꼭…
 
