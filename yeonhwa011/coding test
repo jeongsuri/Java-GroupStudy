@@ -1,0 +1,20 @@
+```java
+/*양의 정수 n이 매개변수로 주어질 때, n이 홀수라면 n 이하의 홀수인 모든 양의 정수의 합을 return 하고 n이 짝수라면 n 이하의 짝수인 모든 양의 정수의 제곱의 합을 return 하는 solution 함수를 작성해 주세요.*/
+
+
+class Solution {
+    public int solution(int n) {
+        int answer = 0;   
+        if(n % 2 == 1){    // if 문 사용해서 홀수인경우에
+            for (int i=1;i<=n; i+= 2){  //for문 사용해서객체 i가 n번이하만큼반복하여 홀수의 값들을
+                anwser +=i;   // answer객체에 더했다. 
+            }
+        }else {                     //짝수인경우 else로 넘어가서
+            for(int i=2;i<=n;i+=2){  //for문통해 n번만큼 반복하고 그안에 짝수들을 곱해서
+                answer +=i*i;  // 제곱으로만든값을 answer에 객체에 넣었다. .
+            }
+        }
+        return answer;
+    }
+}
+```
