@@ -35,7 +35,7 @@
   - 영상시청 후 내용정리
 
 ### 🕕 월~목
-- 18:00까지 코테문제를 [코딩테스트 게시판](https://github.com/jeongsuri/Java-StudyGroup/discussions/categories/%EC%8A%A4%ED%84%B0%EB%94%94-%ED%86%A0%EB%A1%A0-%EC%A7%88%EB%AC%B8)에 코멘트로 올리기
+- 월요일 17:00까지 코테문제를 [코딩테스트 게시판](https://github.com/jeongsuri/Java-StudyGroup/discussions/categories/%EC%8A%A4%ED%84%B0%EB%94%94-%ED%86%A0%EB%A1%A0-%EC%A7%88%EB%AC%B8)에 코멘트로 올리기
 - 매일 강의를 통해 복습을 진행
 - 질문사항 및 좋은정보 정리
 
