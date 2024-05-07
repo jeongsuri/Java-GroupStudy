@@ -13,13 +13,9 @@
   | No. | 💬 Main Topic | 공지사항 | 코딩테스트 | 내용정리 |
   |:----|:-----------|:-------------|:-------------|:-------------|
   ||||
-  | __1주차__<br>(04/15 ~ 04/19) | - | [공지사항](https://github.com/jeongsuri/Java-StudyGroup/discussions/6) | [코딩테스트](https://github.com/jeongsuri/Java-StudyGroup/discussions/9) | [내용정리](https://github.com/jeongsuri/Java-StudyGroup/discussions/11) |
-  | __2주차__<br>(04/22 ~ 04/26) | - | [공지사항](https://github.com/jeongsuri/Java-StudyGroup/discussions/18) | [코딩테스트](https://github.com/jeongsuri/Java-StudyGroup/discussions/10)  | [내용정리](https://github.com/jeongsuri/Java-StudyGroup/discussions/15) | 
+  | __1주차__<br>(05/06 ~ 05/10) | 클래스,메서드 | [공지사항](https://github.com/jeongsuri/Java-StudyGroup/discussions/20) | [코딩테스트](https://github.com/jeongsuri/Java-StudyGroup/discussions/14) | [내용정리](https://github.com/jeongsuri/Java-StudyGroup/discussions/17) |
+  | __2주차__<br>(05/13 ~ 05/17) | 메모리, 생성자, 정보은닉, 싱글톤패턴 | [공지사항](https://github.com/jeongsuri/Java-StudyGroup/discussions/19) | [코딩테스트](https://github.com/jeongsuri/Java-StudyGroup/discussions/13) | [내용정리](https://github.com/jeongsuri/Java-StudyGroup/discussions/16) |
   ||||
-  | __4주차__<br>(04/29 ~ 05/03) | 클래스, 메서드 | [공지사항](https://github.com/jeongsuri/Java-StudyGroup/discussions/19) | [코딩테스트](https://github.com/jeongsuri/Java-StudyGroup/discussions/13) | [내용정리](https://github.com/jeongsuri/Java-StudyGroup/discussions/16) |
-  | __5주차__<br>(05/06 ~ 05/10) | - | [공지사항](https://github.com/jeongsuri/Java-StudyGroup/discussions/20) | [코딩테스트](https://github.com/jeongsuri/Java-StudyGroup/discussions/14) | [내용정리](https://github.com/jeongsuri/Java-StudyGroup/discussions/17) |
-  ||||
-  | __6주차__<br>(05/13 ~ 05/17) | - | [공지사항](https://github.com/jeongsuri/Java-StudyGroup/discussions/19) | [코딩테스트](https://github.com/jeongsuri/Java-StudyGroup/discussions/13) | [내용정리](https://github.com/jeongsuri/Java-StudyGroup/discussions/16) |
 
 <br>
 
