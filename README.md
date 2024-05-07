@@ -14,7 +14,7 @@
   |:----|:-----------|:-------------|:-------------|:-------------|
   ||||
   | __1주차__<br>(05/06 ~ 05/10) | 클래스,메서드 | [공지사항](https://github.com/jeongsuri/Java-StudyGroup/discussions/20) | [코딩테스트](https://github.com/jeongsuri/Java-StudyGroup/discussions/14) | [발표](https://github.com/jeongsuri/Java-StudyGroup/discussions/17) |
-  | __2주차__<br>(05/13 ~ 05/17) | 메모리, 생성자, 정보은닉, 싱글톤패턴 | [공지사항](https://github.com/jeongsuri/Java-StudyGroup/discussions/19) | [코딩테스트](https://github.com/jeongsuri/Java-StudyGroup/discussions/13) | [발표](https://github.com/jeongsuri/Java-StudyGroup/discussions/16) |
+  | __2주차__<br>(05/13 ~ 05/17) | 메모리, 생성자, 정보은닉, 싱글톤패턴 | [공지사항](https://github.com/jeongsuri/Java-StudyGroup/discussions/19) | [코딩테스트](https://github.com/jeongsuri/Java-StudyGroup/discussions/13) | [발표](https://github.com/jeongsuri/Java-StudyGroup/discussions/21) |
   ||||
 
 <br>
