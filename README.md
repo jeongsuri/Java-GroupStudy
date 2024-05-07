@@ -18,6 +18,8 @@
   ||||
   | __4주차__<br>(04/27) | - | [공지사항](https://github.com/jeongsuri/Java-StudyGroup/discussions/19) | [코딩테스트](https://github.com/jeongsuri/Java-StudyGroup/discussions/13) | [내용정리](https://github.com/jeongsuri/Java-StudyGroup/discussions/16) |
   | __5주차__<br>(05/04) | - | [공지사항](https://github.com/jeongsuri/Java-StudyGroup/discussions/20) | [코딩테스트](https://github.com/jeongsuri/Java-StudyGroup/discussions/14) | [내용정리](https://github.com/jeongsuri/Java-StudyGroup/discussions/17) |
+  ||||
+  | __6주차__<br>(05/09) | - | [공지사항](https://github.com/jeongsuri/Java-StudyGroup/discussions/19) | [코딩테스트](https://github.com/jeongsuri/Java-StudyGroup/discussions/13) | [내용정리](https://github.com/jeongsuri/Java-StudyGroup/discussions/16) |
 
 <br>
 
