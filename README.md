@@ -13,8 +13,8 @@
   | No. | 💬 Main Topic | 공지사항 | 코딩테스트 | 발표 |
   |:----|:-----------|:-------------|:-------------|:-------------|
   ||||
-  | __1주차__<br>(05/06 ~ 05/10) | 클래스,메서드, 메모리, 생성자, 정보은닉, 싱글톤패턴, 상속 | [공지사항](https://github.com/jeongsuri/Java-StudyGroup/discussions/19) | [코딩테스트](https://github.com/jeongsuri/Java-StudyGroup/discussions/14) | [발표](https://github.com/jeongsuri/Java-StudyGroup/discussions/17) |
-  | __2주차__<br>(05/13 ~ 05/17) | 메서드 재정의, 다형성, 추상 클래스, 인터페이스 | [공지사항](https://github.com/jeongsuri/Java-StudyGroup/discussions/22) | [코딩테스트](https://github.com/jeongsuri/Java-StudyGroup/discussions/13) | [발표](https://github.com/jeongsuri/Java-StudyGroup/discussions/21) |
+  | __1주차__<br>(05/06 ~ 05/10) | 클래스,메서드, 메모리, 생성자, 정보은닉, 싱글톤패턴 | [공지사항](https://github.com/jeongsuri/Java-StudyGroup/discussions/19) | [코딩테스트](https://github.com/jeongsuri/Java-StudyGroup/discussions/14) | [발표](https://github.com/jeongsuri/Java-StudyGroup/discussions/17) |
+  | __2주차__<br>(05/13 ~ 05/17) | 상속, 메서드 재정의, 다형성, 추상 클래스, 인터페이스 | [공지사항](https://github.com/jeongsuri/Java-StudyGroup/discussions/22) | [코딩테스트](https://github.com/jeongsuri/Java-StudyGroup/discussions/13) | [발표](https://github.com/jeongsuri/Java-StudyGroup/discussions/21) |
   ||||
   | __3주차__<br>(05/20 ~ 05/24) | 내부클래스, 예외처리 | [공지사항](https://github.com/jeongsuri/Java-StudyGroup/discussions/23) | [코딩테스트](https://github.com/jeongsuri/Java-StudyGroup/discussions/24) | [발표](https://github.com/jeongsuri/Java-StudyGroup/discussions/24) |
 
