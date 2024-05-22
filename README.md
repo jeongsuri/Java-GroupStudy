@@ -17,10 +17,10 @@
   | __2주차__<br>(05/13 ~ 05/17) | 상속, 메서드 재정의, 다형성, 추상 클래스 | [공지사항](https://github.com/jeongsuri/Java-StudyGroup/discussions/22) | [코딩테스트](https://github.com/jeongsuri/Java-StudyGroup/discussions/13) | [발표](https://github.com/jeongsuri/Java-StudyGroup/discussions/21) |
   ||||
   | __3주차__<br>(05/20 ~ 05/24) | 인터페이스, 내부클래스, 예외처리 | [공지사항](https://github.com/jeongsuri/Java-StudyGroup/discussions/23) | [코딩테스트](https://github.com/jeongsuri/Java-StudyGroup/discussions/24) | [발표](https://github.com/jeongsuri/Java-StudyGroup/discussions/24) |
-  | __4주차__<br>(05/27 ~ 05/31) | - | [공지사항](https://github.com/jeongsuri/Java-StudyGroup/discussions/23) | [코딩테스트](https://github.com/jeongsuri/Java-StudyGroup/discussions/24) | [발표](https://github.com/jeongsuri/Java-StudyGroup/discussions/24) |
+  | __4주차__<br>(05/27 ~ 05/31) | - | [공지사항](https://github.com/jeongsuri/Java-StudyGroup/discussions/25) | [코딩테스트](https://github.com/jeongsuri/Java-StudyGroup/discussions/31) | [발표](https://github.com/jeongsuri/Java-StudyGroup/discussions/28) |
   ||||
-  | __5주차__<br>(06/3 ~ 06/7) | - | [공지사항](https://github.com/jeongsuri/Java-StudyGroup/discussions/23) | [코딩테스트](https://github.com/jeongsuri/Java-StudyGroup/discussions/24) | [발표](https://github.com/jeongsuri/Java-StudyGroup/discussions/24) |
-  | __4주차__<br>(06/10 ~ 06/14) | - | [공지사항](https://github.com/jeongsuri/Java-StudyGroup/discussions/23) | [코딩테스트](https://github.com/jeongsuri/Java-StudyGroup/discussions/24) | [발표](https://github.com/jeongsuri/Java-StudyGroup/discussions/24) |
+  | __5주차__<br>(06/3 ~ 06/7) | - | [공지사항](https://github.com/jeongsuri/Java-StudyGroup/discussions/26) | [코딩테스트](https://github.com/jeongsuri/Java-StudyGroup/discussions/32) | [발표](https://github.com/jeongsuri/Java-StudyGroup/discussions/29) |
+  | __4주차__<br>(06/10 ~ 06/14) | - | [공지사항](https://github.com/jeongsuri/Java-StudyGroup/discussions/27) | [코딩테스트](https://github.com/jeongsuri/Java-StudyGroup/discussions/33) | [발표](https://github.com/jeongsuri/Java-StudyGroup/discussions/30) |
 
 <br>
 
