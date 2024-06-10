@@ -23,7 +23,7 @@
   | __6주차__<br>(06/10 ~ 06/14) | Java lang, enum, 제네릭, 컬렉션 프레임워크, 람다 | [공지사항](https://github.com/jeongsuri/Java-StudyGroup/discussions/27) | [코딩테스트](https://github.com/jeongsuri/Java-StudyGroup/discussions/33) | [발표](https://github.com/jeongsuri/Java-StudyGroup/discussions/30) |
   ||||
    | __7주차__<br>(06/17 ~ 06/21) | Java lang, enum, 제네릭, 컬렉션 프레임워크 | [공지사항](https://github.com/jeongsuri/Java-StudyGroup/discussions/27) | [코딩테스트](https://github.com/jeongsuri/Java-StudyGroup/discussions/33) | [발표](https://github.com/jeongsuri/Java-StudyGroup/discussions/30) |
-   | __7주차__<br>(06/24 ~ 06/28) | 람다, 스트림, optioanl | [공지사항](https://github.com/jeongsuri/Java-StudyGroup/discussions/27) | [코딩테스트](https://github.com/jeongsuri/Java-StudyGroup/discussions/33) | [발표](https://github.com/jeongsuri/Java-StudyGroup/discussions/30) |
+   | __8주차__<br>(06/24 ~ 06/28) | 람다, 스트림, optioanl | [공지사항](https://github.com/jeongsuri/Java-StudyGroup/discussions/27) | [코딩테스트](https://github.com/jeongsuri/Java-StudyGroup/discussions/33) | [발표](https://github.com/jeongsuri/Java-StudyGroup/discussions/30) |
 
 <br>
 
