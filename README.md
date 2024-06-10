@@ -20,9 +20,9 @@
   | __4주차__<br>(05/27 ~ 05/31) | 묵찌빠, 학생관리프로그램 구현 | - | [코딩테스트](https://github.com/jeongsuri/Java-StudyGroup/discussions/31) | [발표](https://github.com/jeongsuri/Java-StudyGroup/discussions/28) |
   ||||
   | __5주차__<br>(06/3 ~ 06/7) | 묵찌빠, 학생관리프로그램 구현  | - | [코딩테스트](https://github.com/jeongsuri/Java-StudyGroup/discussions/32) | [발표](https://github.com/jeongsuri/Java-StudyGroup/discussions/29) |
-  | __6주차__<br>(06/10 ~ 06/14) | Java lang, enum, 제네릭, 컬렉션 프레임워크, 람다 | [공지사항](https://github.com/jeongsuri/Java-StudyGroup/discussions/26) | [코딩테스트](https://github.com/jeongsuri/Java-StudyGroup/discussions/33) | [발표](https://github.com/jeongsuri/Java-StudyGroup/discussions/30) |
+  | __6주차__<br>(06/10 ~ 06/14) | Java lang, enum, 제네릭, 컬렉션 프레임워크, 람다 | [공지사항](https://github.com/jeongsuri/Java-StudyGroup/discussions/25) | [코딩테스트](https://github.com/jeongsuri/Java-StudyGroup/discussions/33) | [발표](https://github.com/jeongsuri/Java-StudyGroup/discussions/30) |
   ||||
-   | __7주차__<br>(06/17 ~ 06/21) | 람다, 스트림, optioanl | [공지사항](https://github.com/jeongsuri/Java-StudyGroup/discussions/27) | [코딩테스트](https://github.com/jeongsuri/Java-StudyGroup/discussions/33) | [발표](https://github.com/jeongsuri/Java-StudyGroup/discussions/30) |
+   | __7주차__<br>(06/17 ~ 06/21) | 람다, 스트림, optioanl | [공지사항](https://github.com/jeongsuri/Java-StudyGroup/discussions/26) | [코딩테스트](https://github.com/jeongsuri/Java-StudyGroup/discussions/33) | [발표](https://github.com/jeongsuri/Java-StudyGroup/discussions/30) |
    | __8주차__<br>(06/24 ~ 06/28) | 프로젝트 | [공지사항](https://github.com/jeongsuri/Java-StudyGroup/discussions/27) | [코딩테스트](https://github.com/jeongsuri/Java-StudyGroup/discussions/33) | [발표](https://github.com/jeongsuri/Java-StudyGroup/discussions/30) |
 
 <br>
